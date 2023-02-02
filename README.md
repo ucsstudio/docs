@@ -1,5 +1,5 @@
 # 
-<h1> UCS DOCUMENTATION </h1>
+<h2>UCS DOCUMENTATION </h2>
 
 
 Blockchain trilemma, Decentralization, Scalability and Security has always been a trade off amongst themselves. When decentralized, it won't be secured, 
